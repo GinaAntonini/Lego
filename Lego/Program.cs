@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using JurassicWorldLego.Classes;
+using JurassicWorldLego.MinifigureClasses;
 
 namespace JurassicWorldLego
 {
@@ -9,6 +9,9 @@ namespace JurassicWorldLego
         static void Main(string[] args)
         {
             var velociraptor = new Velociraptor("Brown", "Small");
+            var triceratops = new Triceratops();
+            var dinoHandler = new DinoHandler();
+            var forklift = new Forklift();
         }
     }
 

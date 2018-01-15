@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="MinifigureClasses\DinoHandler.cs" />
     <Compile Include="MinifigureClasses\Forklift.cs" />
+    <Compile Include="MinifigureClasses\GeneralObject.cs" />
     <Compile Include="MinifigureClasses\Triceratops.cs" />
     <Compile Include="MinifigureClasses\Velociraptor.cs" />
     <Compile Include="Program.cs" />

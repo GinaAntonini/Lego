@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JurassicWorldLego.Classes
+namespace JurassicWorldLego.MinifigureClasses
 {
     class Velociraptor
     {
