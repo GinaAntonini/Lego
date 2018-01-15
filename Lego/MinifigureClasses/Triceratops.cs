@@ -8,8 +8,8 @@ namespace JurassicWorldLego.Classes
 {
     class Triceratops
     {
+        public bool charges { get; set; }
         public string color { get; set; }
         public string size { get; set; }
     }
-    //charge method
 }

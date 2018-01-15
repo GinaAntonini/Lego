@@ -13,8 +13,8 @@ namespace JurassicWorldLego.Classes
             this.color = _color;
             this.size = _size;
         }
+        public bool pounces { get; set; }
         public string color { get; set; }
         public string size { get; set; }
     }
-    //pounce method
 }
